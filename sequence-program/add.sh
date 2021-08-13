@@ -8,5 +8,5 @@ echo $result
 read -p "enter the first number : " x
 read -p "enter the second number: " y
 result2=$(($x+$y))
-echo $result2
+echo THE addition of two numbers: $result2
 
